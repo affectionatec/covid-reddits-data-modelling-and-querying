@@ -1,13 +1,13 @@
 # covid-reddits-data-modelling-and-querying
 
-##data modeling
+**data modeling**
 <p>
 Given an initial .csv dataset from Reddit, this data dump contains posts extracted from Covid-related subreddits, as well as random subreddits.
 The two projects were to process this dump, design, create and implement a relational (MySQL) database, and then populate this database with all the posts and associated data.
 </p>
 
 
-##data querying
+**data querying**
 <p>implement queries to find the answer.</p>
 <ol>
   <li>Users with highest scores over time</li>
